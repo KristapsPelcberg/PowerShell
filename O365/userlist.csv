@@ -1,0 +1,27 @@
+External;DisplayName;UserPrincipalName;FirstName;LastName;Office;UsageLocation;Department;Title;manager;Country;StreetAddress;State;City;PostalCode;AlternativeMobilePhone;MobilePhone;HomePhone;Fax;Password
+;Ojars Dalins;Ojars.Dalins;Ojars;Dalins;Cesu iela;NO;TOV2;Student;Emilija.Raka;Latvia;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Janis Ozols;Janis.Ozols;Janis;Ozols;Cesu iela;NO;TOV3;Student;Emilija.Raka;Latvia;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Karlis Berzins;Karlis.Berzins;Karlis;Berzins;Cesu iela;NO;TOV4;Student;Emilija.Raka;Latvia;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Jhon Vitols;Jhon.Vitols;Jhon;Vitols;Cesu iela;NO;KSA1;Student;Emilija.Raka;UK;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Zack Smith;Zack.Smith;Zack;Smith;Cesu iela;NO;KSA2;Student;Emilija.Raka;UK;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Anna Vanna;Anna.Vanna;Anna;Vanna;Cesu iela;NO;KSA3;Student;Emilija.Raka;Latvia;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Linda Ziedina;Linda.Ziedina;Linda;Ziedina;Cesu iela;NO;KSA4;Student;Emilija.Raka;Latvia;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Emilija Raka;Emilija.Raka;Emilija;Raka;Cesu iela;NO;Adm;Administration;Arvids.Sabonis;Latvia;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Arvids Sabonis;Arvids.Sabonis;Arvids;Sabonis;Cesu iela;NO;Adm;Administration;;Latvia;Cesu iela 4;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Valdis Valters;Valdis.Valters;Valdis;Valters;Terbates iela;NO;IT1;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Ritvars Dancotajs;Ritvars.Dancotajs;Ritvars;Dancotajs;Terbates iela;NO;IT1;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Toms Balkis;Toms.Balkis;Toms;Balkis;Terbates iela;NO;IT1;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Maira Kailke;Maira.Kailke;Maira;Kailke;Terbates iela;NO;IT1;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Vaira Lada;Vaira.Lada;Vaira;Lada;Terbates iela;NO;IT2;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Ladis Vadzis;Ladis.Vadzis;Ladis;Vadzis;Terbates iela;NO;IT2;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Vaga Taga;Vaga.Taga;Vaga;Taga;Terbates iela;NO;IT2;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Baiba Smaka;Baiba.Smaka;Baiba;Smaka;Terbates iela;NO;IT3;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Imlars Babris;Imlars.Babris;Imlars;Babris;Terbates iela;NO;IT3;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Andris Pruzins;Andris.Pruzins;Andris;Pruzins;Terbates iela;NO;IT3;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Vairs Kalnins;Vairs.Kalnins;Vairs;Kalnins;Terbates iela;NO;IT4;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Mairis Spraits;Mairis.Spraits;Mairis;Spraits;Terbates iela;NO;IT4;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Spainis Aluminijs;Spainis.Aluminijs;Spainis;Aluminijs;Terbates iela;NO;IT4;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Ciedris Spiedis;Ciedris.Spiedis;Ciedris;Spiedis;Terbates iela;NO;IT4;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+;Zigurds Diedzis;Zigurds.Diedzis;Zigurds;Diedzis;Terbates iela;NO;IT4;Student;Arvids.Sabonis;Latvia;Terbatas iela 10;Vidzeme;Valmiera;LV-4201;26174782;29473646;23534532;323421421;Parole!123
+TRUE;Mary Greenberg;Mary.Greenberg@fabrikam.com;Mary;Greenberg;;;;;;;;;;;;;;;
+TRUE;Bill Dobson;Bill.Dobson@fabrikam.com;Bill;Dobson;;;;;;;;;;;;;;;
